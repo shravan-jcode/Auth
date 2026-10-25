@@ -1,0 +1,4 @@
+authentication
+user -> server->DB
+theserver creates token
+
