@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 const userSchema =new mongoose.Schema({
-    usernamme:{
+    username:{
         type:String,
         required:[true,"Username required"],
         unique:[true,"username must be unique"],

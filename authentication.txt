@@ -1,4 +1,12 @@
 authentication
 user -> server->DB
 theserver creates token
+how server identify user
+bearer
+what is token 
+
+what if there are A and B usrr if B got As token then what needs to do  what is correct way
+access token and refresh token
+
+
 
